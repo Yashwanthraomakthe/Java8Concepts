@@ -1,0 +1,4 @@
+Name: iPhone
+Price: $999.99
+Category: Electronics
+Grade: A+
